@@ -1,6 +1,7 @@
 import turtle as t
 import random
 
+# Challenge 3
 tim = t.Turtle()
 
 colours = ["CornflowerBlue", "DarkOrchid", "IndianRed", "DeepSkyBlue", "LightSeaGreen", "wheat", "SlateGray", "SeaGreen"]
